@@ -11,6 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Liverpool, 2021
-* B.S. in Computer Science, Warsaw University of Technology, 2016
+* Ph.D in Computer Science, University of Liverpool, United Kingdom, 2021
+* B.S. in Computer Science, Warsaw University of Technology, Poland, 2016
 
