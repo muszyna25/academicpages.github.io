@@ -19,7 +19,7 @@ Education
 
 Employment
 ======
-* 2020 - current: Data Scientist/Postdoctoral Scholar
+* 2020 - present: Data Scientist/Postdoctoral Scholar
 	* [Artificial Intelligence Lab](https://www.bas.ac.uk/project/ai/), British Antarctic Survey, Cambridge, UK
 * 2017 - 2020: Graduate Student Assistant
 	* [National Energy Research Scientific Computing Center](https://www.nersc.gov/) (NERSC), [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), Berkeley, USA
