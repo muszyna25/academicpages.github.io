@@ -21,11 +21,11 @@ Employment
 	* [Artificial Intelligence Lab](https://www.bas.ac.uk/project/ai/), British Antarctic Survey, Cambridge, UK
 * 2017 - 2020: Graduate Student Assistant
 	* [National Energy Research Scientific Computing Center](https://www.nersc.gov/) (NERSC), [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), Berkeley, USA
-	* Supervisors: Dr Prabhat Ram, Dr Karthik Kashinath
+	* Supervisors: Dr Prabhat Ram, [Dr Karthik Kashinath](https://www.nersc.gov/about/nersc-staff/data-analytics-services/karthik-kashinath/)
 * 02-03 2017: Research Intern
 	* Department of Computer Science, University of Liverpool, UK
 	* Supervisor: Dr Vitaliy Kurlin
 * 07-12 2016: Student Intern
-	* Data & Analytics Services group, National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley, USA
-	* Supervisors: Dr Prabhat Ram, Dr Dmitriy Morozov
+	* [Data & Analytics Services](https://www.nersc.gov/about/nersc-staff/data-analytics-services/) group, National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley, USA
+	* Supervisors: Dr Prabhat Ram, [Dr Dmitriy Morozov](https://mrzv.org/)
 
