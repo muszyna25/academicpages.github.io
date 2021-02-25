@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Liverpool, United Kingdom, 2021
+* Ph.D. in Computer Science, University of Liverpool, United Kingdom, 2021
 	* Supervisors: [Dr Vitaliy Kurlin](http://kurlin.org/), [Dr Michael Wehner](https://crd.lbl.gov/departments/computational-science/ccmc/staff/staff-members/michael-wehner/) (Berkeley Lab)
 * B.Sc. in Computer Science, Warsaw University of Technology, Poland, 2016
 
