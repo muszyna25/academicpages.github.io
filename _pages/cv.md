@@ -17,9 +17,11 @@ Education
 Employment
 ======
 * 2020 - current: Data Scientist/Postdoctoral Scholar
-	* Artificial Intelligence Lab, British Anarctic Survey, Cambridge, UK
+	* Artificial Intelligence Lab, British Antarctic Survey, Cambridge, UK
 * 2017 - 2020: Graduate Student Assistant
-	* National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley USA
-* 2016 07-12: Student Intern
-	* National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley USA
+	* National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley, USA
+* 02-03 2017: Research Intern
+	* Department of Computer Science, University of Liverpool, UK
+* 07-12 2016: Student Intern
+	* National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley, USA
 
