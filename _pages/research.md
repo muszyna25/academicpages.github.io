@@ -4,7 +4,7 @@ title: "Research"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /about/
+  - /research
 ---
 
 My research foucuses on...
