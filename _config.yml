@@ -83,8 +83,8 @@ author:
   name             : "Grzegorz Muszynski"
   avatar           : "profile.png"
   bio              : "Data Scientist/Postdoc"
-  location         : "Cambridge,UK"
   employer         : "British Antarctic Survey"
+  location         : "Cambridge,UK"
   googlescholar    : "https://scholar.google.com/citations?user=x6ERU80AAAAJ&hl=en&oi=ao"
   email            :
   uri              :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/muszyna25"
+  github           : "muszyna25"
   google_plus      :
   keybase          :
   instagram        :
