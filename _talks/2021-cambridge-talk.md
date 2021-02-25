@@ -2,9 +2,9 @@
 title: "Next talk"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/2021-cambridge-talk
 venue: "Cambridge Environmental Data Science Group (CEDSG) Seminar"
-date: 2021-00-00
+date: 2021-05-11
 location: "Cambridge, UK"
 ---
 
