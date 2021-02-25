@@ -20,4 +20,6 @@ Employment
 	* Artificial Intelligence Lab, British Anarctic Survey, Cambridge, UK
 * 2017 - 2020: Graduate Student Assistant
 	* National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley USA
+* 2016 07-12: Student Intern
+	* National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory, Berkeley USA
 
