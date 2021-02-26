@@ -16,5 +16,7 @@ I aim at recognising and understanding the climate and weather variability, the 
 
 As part of my research work, I have been studying atmospheric river phenomena that often lead to extreme weather events, such as floods, landslides.
 
-<img align="right" width="50%" src="/images/ar_nonars.jpg">
+<img align="center" width="90%" src="/images/ar_nonars.jpg">
+
+The picture above shows the Integrated Water Vapour (IWV) formally the mass of water vapour in the vertical column over a square meter (kg/m^-2). Higher values of IWV correspond to the red colour, lower values are shown by the blue colour.
 
