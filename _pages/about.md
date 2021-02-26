@@ -12,7 +12,9 @@ I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://
 
 My research revolves around the intersection of computer science, data science, atmospheric science, and climate science. My research interests focus on machine learning, causal inference, deep learning, topological data analysis, atmospheric phenomena, weather extremes, and large climate processes.
 As a member of AI Lab and IDP Team, I share my research experience in machine (deep) learning and applied topology for weather pattern recognition in high-resolution climate model simulations and reanalysis products.
-In particular, my PhD research work was concerned with detection of atmospheric rivers and atmospheric blocks in climate data.
+
+My PhD research work was concerned with the development of machine learning methods for detecting weather phenomena, such as atmospheric rivers and atmospheric block in climate data.
+
 My current research at BAS spans the application of machine learning, causal inference techniques, and causal discovery methods to improve the understanding of the causation (drivers) of precipitation and droughts in the Himalayan region.
 
 Highlights of my research
