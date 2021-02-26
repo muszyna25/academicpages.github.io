@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. I am also supported by the Alan Turing Institute’s AI for Science programme at the AI Lab.
+I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. I am also supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab.
 
 My research focuses on AI and data science methods for climate science.
 

@@ -15,6 +15,7 @@ Education
 	* Supervisors: [Dr Vitaliy Kurlin](http://kurlin.org/), [Dr Michael Wehner](https://crd.lbl.gov/departments/computational-science/ccmc/staff/staff-members/michael-wehner/) (Berkeley Lab)
 	* Examiners: [Prof. Gabriele Hegerl FRS](https://blogs.ed.ac.uk/ghegerl/), Prof. Frans Coenen
 	* Thesis: "Pattern Recognition for Weather Phenomena in Climate Data"
+	* PhD student scholarship funded by the Intel Parallel Computing Center & Big Data Center at NERSC, Berkeley Lab, USA
 * B.Sc. in Computer Science, Warsaw University of Technology, Poland, 2016
 
 Employment
