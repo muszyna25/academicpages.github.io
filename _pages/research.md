@@ -22,6 +22,8 @@ We aim at investigating tropical and mid­latitude teleconnections (i.e., ENSO, 
 
 <img class="center" align="center" width="70%" src="/images/water_security.jpg">
 
+The above picture shows approximate geographic location of ISM, ENSO, MJO, and NAO. The bottom one displays climate indices of ISM, ENSO, MJO, and NAO at weekly scale (1982­2015).
+
 ## Detecting Atmospheric River Phenomena in Climate Data
 
 As part of my research work, I have been studying atmospheric river phenomena that often lead to extreme weather events, such as floods, landslides.
