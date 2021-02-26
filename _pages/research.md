@@ -14,7 +14,7 @@ My research involves the deveploment and application of machine learning, deep l
 
 I aim at recognising and understanding the climate and weather variability, the changes in frequency and strength of extreme weather events, and to support decision makers and future climate predictions.
 
-# Applications to Climate Science
+## Applications to Climate Science:
 
 Detecting Drivers of Heavy Precipitation in the Himalayan Region
 ===
