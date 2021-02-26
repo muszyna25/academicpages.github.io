@@ -19,4 +19,10 @@ As part of my research work, I have been studying atmospheric river phenomena th
 <img align="center" width="90%" src="/images/ar_nonars.jpg">
 
 The picture above shows the Integrated Water Vapour (IWV) formally the mass of water vapour in the vertical column over a square meter (kg/m^-2). Higher values of IWV correspond to the red colour, lower values are shown by the blue colour.
+The top row shows examples of Atmospheric Rivers (ARs) and the bottom row displays instances of non-Atmopsheric Rivers (non-ARs).
+
+I also have been working on atmospheric blocking identifitcation that usually lead to extreme weather, such as heat or cold waves, droughts.
+
+<img align="center" width="90%" src="/images/ab_nonabs.jpg">
+
 
