@@ -19,7 +19,7 @@ Detecting Drivers of Heavy Precipitation in the Himalayan Region
 
 We aim at investigating tropical and mid­latitude teleconnections (i.e., ENSO, MJO, and NAO) interacting with the ISM precipitation. 
 
-<img align="center" width="70%" src="/images/water_security.jpg">
+<img class="center" align="center" width="70%" src="/images/water_security.jpg">
 
 Detecting Atmospheric River Phenomena in Climate Data
 ===
