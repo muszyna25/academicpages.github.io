@@ -14,17 +14,16 @@ My research involves the deveploment and application of machine learning, deep l
 
 I aim at recognising and understanding the climate and weather variability, the changes in frequency and strength of extreme weather events, and to support decision makers and future climate predictions.
 
-## Applications to Climate Science:
+# Applications to Climate Science:
 
-Detecting Drivers of Heavy Precipitation in the Himalayan Region
-===
+## Detecting Drivers of Heavy Precipitation in the Himalayan Region
 
 We aim at investigating tropical and mid­latitude teleconnections (i.e., ENSO, MJO, and NAO) interacting with the ISM precipitation. 
 
 <img class="center" align="center" width="70%" src="/images/water_security.jpg">
 
-Detecting Atmospheric River Phenomena in Climate Data
-===
+## Detecting Atmospheric River Phenomena in Climate Data
+
 As part of my research work, I have been studying atmospheric river phenomena that often lead to extreme weather events, such as floods, landslides.
 
 <img align="center" width="90%" src="/images/ar_nonars.jpg">
@@ -32,8 +31,8 @@ As part of my research work, I have been studying atmospheric river phenomena th
 The picture above shows the Integrated Water Vapour (IWV) formally the mass of water vapour in the vertical column over a square meter (kg/m^-2). Higher values of IWV correspond to the red colour, lower values are shown by the blue colour.
 The top row shows examples of Atmospheric Rivers (ARs) and the bottom row displays instances of non-Atmopsheric Rivers (non-ARs).
 
-Detecting and Localising Atmospheric Blocking Phenomena in Climate Data
-===
+## Detecting and Localising Atmospheric Blocking Phenomena in Climate Data
+
 I also have been working on atmospheric blocking identifitcation that usually lead to extreme weather, such as heat or cold waves, droughts.
 
 <img align="center" width="90%" src="/images/ab_nonabs.jpg">
