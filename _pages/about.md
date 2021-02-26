@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. I am also supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab.
+I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate (IDP) Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. I am also supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab.
 
 My research revolves around the intersection of computer science, data science, atmospheric science, and climate science. My research interests focus on machine learning, causal inference, deep learning, topological data analysis, atmospheric phenomena, weather extremes, and large climate processes.
-As a member of AI Lab, I also share my research experience in machine (deep) learning and applied topology for weather pattern recognition in high-resolution climate model simulations and reanalysis products.
+As a member of AI Lab and IDP Team, I share my research experience in machine (deep) learning and applied topology for weather pattern recognition in high-resolution climate model simulations and reanalysis products.
+In particular, my PhD research work was concerned with detection of atmospheric rivers and atmospheric blocks in climate data.
+My current research at BAS spans the application of machine learning, causal inference techniques, and causal discovery methods to improve the understanding of the causation (drivers) of precipitation and droughts in the Himalayan region.
 
 Highlights of my research
 ===
