@@ -14,6 +14,13 @@ My research involves the deveploment and application of machine learning, deep l
 
 I aim at recognising and understanding the climate and weather variability, the changes in frequency and strength of extreme weather events, and to support decision makers and future climate predictions.
 
+Detecting Drivers of Heavy Precipitation in the Himalayan Region
+===
+
+We aim at investigating tropical and mid­latitude teleconnections (i.e., ENSO, MJO, and NAO) interacting with the ISM precipitation. 
+
+<img align="center" width="70%" src="/images/water_security.jpg">
+
 Detecting Atmospheric River Phenomena in Climate Data
 ===
 As part of my research work, I have been studying atmospheric river phenomena that often lead to extreme weather events, such as floods, landslides.
