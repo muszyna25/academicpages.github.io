@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. I am also supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab.
 
-My research focuses on AI and data science methods for climate science.
+My research revolves around the intersection of computer science, data science, atmospheric science, and climate science. My research interests focus on machine learning, causal inference, deep learning, topological data analysis, atmospheric phenomena, weather extremes, and large climate processes.
 
 Highlights of my research
 ===
