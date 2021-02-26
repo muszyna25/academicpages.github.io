@@ -11,11 +11,11 @@ redirect_from:
 I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate (IDP) Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. I am also supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab.
 
 My research revolves around the intersection of computer science, data science, atmospheric science, and climate science. My research interests focus on machine learning, causal inference, deep learning, topological data analysis, atmospheric phenomena, weather extremes, and large climate processes.
-As a member of AI Lab and IDP Team, I share my research experience in machine (deep) learning and applied topology for weather pattern recognition in high-resolution climate model simulations and reanalysis products.
 
-*My PhD research work was concerned with the development of machine learning and deep learning methods for detecting weather phenomena, such as [atmospheric rivers](https://en.wikipedia.org/wiki/Atmospheric_river) and [atmospheric blocks](https://www.metoffice.gov.uk/weather/learn-about/weather/how-weather-works/high-and-low-pressure/blocks) in large climate data.
+My PhD research work was concerned with the development of machine learning and deep learning methods for detecting weather phenomena, such as [atmospheric rivers](https://en.wikipedia.org/wiki/Atmospheric_river) and [atmospheric blocks](https://www.metoffice.gov.uk/weather/learn-about/weather/how-weather-works/high-and-low-pressure/blocks) in large climate data.
 
 My current research at BAS spans the application of machine learning, causal inference techniques, and causal discovery methods to improve the understanding of the causation (drivers) of precipitation, droughts, and water security in the Himalayan region.
+As a member of AI Lab and IDP Team, I share my research experience in machine (deep) learning and applied topology for weather pattern recognition in high-resolution climate model simulations and reanalysis products.
 
 Highlights of my research
 ===
