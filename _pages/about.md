@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate (IDP) Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. I am also supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab.
+I am a Data Scientist/Postdoc in [the Artificial Intelligence (AI) Lab](https://www.bas.ac.uk/project/ai/) and [the Ice Dynamics and Palaeoclimate (IDP) Team](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at [the British Antarctic Survey (BAS)](https://www.bas.ac.uk/) environmental research institute in Cambridge, UK. My research is supported by [the Alan Turing Institute’s AI for Science programme](https://www.turing.ac.uk/research/asg) at the AI Lab. I am working with [Dr Scott Hosking](https://scotthosking.com/) in the AI Lab and [Dr Hamish Pritchard](https://www.bas.ac.uk/profile/hprit/) in the IDP Team.
 
 My research revolves around the intersection of computer science, data science, atmospheric science, and climate science. My research interests focus on machine learning, causal inference, deep learning, topological data analysis, atmospheric phenomena, weather extremes, and large climate processes.
 

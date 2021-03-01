@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, University of Liverpool, United Kingdom, 2021
 	* Supervisors: [Dr Vitaliy Kurlin](http://kurlin.org/), [Dr Michael Wehner](https://crd.lbl.gov/departments/computational-science/ccmc/staff/staff-members/michael-wehner/) (Berkeley Lab)
-	* Examiners: [Prof. Gabriele Hegerl FRS](https://blogs.ed.ac.uk/ghegerl/), Prof. Frans Coenen
+	* Examiners: [Prof. Gabriele Hegerl](https://blogs.ed.ac.uk/ghegerl/) FRS, [Prof. Frans Coenen](https://cgi.csc.liv.ac.uk/~frans/)
 	* Thesis: "Pattern Recognition for Weather Phenomena in Climate Data"
 	* PhD student scholarship funded by the Intel Parallel Computing Center & [Big Data Center](https://www.hpcwire.com/2017/08/17/intel-nersc-university-partners-launch-new-big-data-center/) at NERSC, Berkeley Lab, USA
 * B.Sc. in Computer Science, Warsaw University of Technology, Poland, 2016
