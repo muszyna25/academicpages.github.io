@@ -8,7 +8,7 @@ redirect_from:
   - /research.html
 ---
 
-My research statement is is in preperation at the moment.
+My research statement is in preperation at the moment.
 
 My research involves the deveploment and application of machine learning, deep learning, and causal inference methods on vast and various climate datasets, including the output from climate models and reanalysis products.
 
