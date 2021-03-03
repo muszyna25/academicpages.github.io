@@ -12,6 +12,8 @@ My research statement is in preperation at the moment.
 
 My research involves the deveploment and application of machine learning, deep learning, and causal inference methods on vast and various climate datasets, including the output from climate models and reanalysis products.
 
+<img align="center" width="90%" src="/images/causal_inference.jpg">
+
 I aim at recognising and understanding the climate and weather variability, the changes in frequency and strength of extreme weather events, and to support decision makers and future climate predictions.
 
 # Applications to Climate Science:
